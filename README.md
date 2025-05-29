@@ -1,1 +1,1 @@
-# learning-projects
+# LEARNING TO ADD CODES AND NEW PROJECTS
