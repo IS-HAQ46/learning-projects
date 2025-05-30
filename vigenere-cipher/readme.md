@@ -1,4 +1,4 @@
-🔐 Vigenère Cipher: Encrypt & Decrypt Messages
+#🔐 Vigenère Cipher: Encrypt & Decrypt Messages
 A simple Python script to encrypt and decrypt messages using the classic Vigenère cipher.
 
 💡 Features
@@ -9,7 +9,7 @@ Example included using key: marvel
 text = 'topzz bxjnd'
 key = 'marvel'
 
-# Decrypt to get: hello world
+ Decrypt to get: hello world
 decrypted = decrypt(text, key)
 
 🚀 How to Run
