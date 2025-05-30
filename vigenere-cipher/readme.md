@@ -1,4 +1,4 @@
-#🔐 Vigenère Cipher: Encrypt & Decrypt Messages
+# 🔐 Vigenère Cipher: Encrypt & Decrypt Messages
 A simple Python script to encrypt and decrypt messages using the classic Vigenère cipher.
 
 💡 Features
