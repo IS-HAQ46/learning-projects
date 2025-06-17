@@ -1,62 +1,52 @@
 
-# 🛠️ Learning Projects
+## Learning Projects
 
-Welcome to my `learning-projects` repository! This space documents my journey through various technology domains, including Python programming, cybersecurity, cloud computing, and machine learning. Each project here represents a step forward in my continuous learning process.
-
----
-
-## 📁 Repository Structure
-
-```
-
-learning-projects/
-├── password-generator/
-│   ├── password\_generator.py
-│   └── README.md
-├── vigenere-cipher/
-│   ├── vigenere\_cipher.py
-│   └── README.md
-├── linear\_regression/
-│   ├── linear\_regression.py
-│   └── README.md
-└── README.md
-
-```
+A collection of beginner-friendly Python projects focused on fundamental programming and machine learning concepts. Each folder explores a different topic—from basic encryption to regression models and optimization algorithms.
 
 ---
 
-## 📌 Current Projects
+## 📁 Project Structure
 
-- **Password Generator**: A customizable password generator that allows users to specify length, symbols, numbers, and more.
-- **Vigenère Cipher**: An implementation of the classic Vigenère cipher for text encryption and decryption.
-- **Linear Regression**: A basic linear regression model built using Python's `scikit-learn` library.
+### 🔹 `linear_regression/`
+Contains:
+- `single_variable/`: Implements simple linear regression using gradient descent.
+- `multi_variable/`: Predicts salary based on multiple features using matrix operations.
+- `basic/`: A basic linear regression example with CSV data and visualization.
 
----
+### 🔹 `gradient_descent/`
+Visualizes how the gradient descent algorithm minimizes a cost function using an animated plot and simple numeric updates.
 
-## 🎯 Learning Objectives
+### 🔹 `vigenere_cipher/`
+A text encryption tool using the classical Vigenère cipher. Accepts plaintext and a keyword to encrypt/decrypt messages securely.
 
-- **Python Programming**: Strengthen foundational and advanced Python skills through practical projects.
-- **Cybersecurity**: Understand core concepts and tools in cybersecurity.
-- **Cloud Computing**: Gain hands-on experience with cloud platforms and services.
-- **Machine Learning**: Explore machine learning algorithms and their applications.
-
----
-
-## 🚀 Upcoming Projects
-
-- **Cybersecurity Tools**: Develop scripts and tools to understand and mitigate security threats.
-- **Cloud Deployments**: Deploy applications on cloud platforms like AWS and Azure.
-- **Advanced Machine Learning Models**: Implement complex models and analyze their performance.
+### 🔹 `password_generator/`
+Generates secure, random passwords using customizable character sets (letters, digits, symbols). Great for learning randomization and string handling.
 
 ---
 
-## 📌 Note
+## ✅ Technologies Used
 
-Only significant projects will be uploaded to this repository. Smaller exercises and practice scripts are maintained locally to keep the repository focused and organized.
+- Python
+- NumPy
+- Pandas
+- Matplotlib
 
 ---
 
-Feel free to explore the projects, and any feedback or suggestions are welcome!
-```
+## 🚀 Getting Started
 
-If you want me to generate the file ready to upload, just say!
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/IS-HAQ46/learning-projects.git
+   cd learning-projects
+
+    
+## Navigate into a project folder and run:
+python filename.py
+
+# 🎯 Learning Outcomes
+Practice building ML models from scratch
+Understand optimization with gradient descent
+Learn classic encryption logic
+Use Python for real-world utility scripts
+
